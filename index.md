@@ -1,4 +1,4 @@
-##Purchasing 
+## Purchasing 
 
 Check out our new [The Neon Tempest](https://www.etsy.com/shop/TheNeonTempest?ref=l2-shopheader-name) store on Etsy to purhcase products. 
 
