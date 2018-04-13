@@ -4,7 +4,7 @@ Check out our new [The Neon Tempest](https://www.etsy.com/shop/TheNeonTempest?re
 
 ## Contact
 
-Chat with me any time by sending me an email at spongey@theneontempest.com
+Chat with me any time by sending an email to spongey@theneontempest.com
 
 ## Welcome to GitHub Pages
 
