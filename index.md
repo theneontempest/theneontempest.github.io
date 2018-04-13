@@ -2,6 +2,10 @@
 
 Check out our new [The Neon Tempest](https://www.etsy.com/shop/TheNeonTempest?ref=l2-shopheader-name) store on Etsy to purhcase products. 
 
+## Contact
+
+Chat with me any time by sending me an email at spongey@theneontempest.com
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/theneontempest/theneontempest.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
