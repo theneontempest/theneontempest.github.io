@@ -4,7 +4,7 @@
 
 ![Blue glow in the dark case with 6 shadows](theneontempest.github.io/images/Blue1.JPG)
 
-##### Description
+Description
 
 *Travel makeup case that fits four 26mm round eyeshadow pans. 
 
