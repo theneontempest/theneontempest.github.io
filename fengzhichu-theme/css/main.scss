@@ -1,8 +1,8 @@
 ---
 ---
 // External
-@import 'external/reset';
-@import 'external/syntax';
+@import 'base/external/reset';
+@import 'base/external/syntax';
 
 // Base
 @import 'base/variables';
@@ -10,9 +10,9 @@
 @import 'base/utility';
 
 // Posts
-@import 'layouts/posts';
-@import 'layouts/index';
+@import 'base/layouts/posts';
+@import 'base/layouts/index';
 
 // Partials
-@import 'includes/header';
-@import 'includes/footer';
+@import 'base/includes/header';
+@import 'base/includes/footer';
