@@ -1,7 +1,7 @@
 
 
 
-## Products
+# Store
 
 Check out our new store on Etsy called [The Neon Tempest](https://www.etsy.com/shop/TheNeonTempest?ref=l2-shopheader-name) to see the latest products! 
 
