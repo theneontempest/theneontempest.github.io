@@ -3,7 +3,7 @@
 
 Holds six 26mm pans.
 
-![](theneontempest.github.io/images/Blue1.JPG)
+![Blue glow in the dark case with 6 shadows](theneontempest.github.io/images/Blue1.JPG)
 
 ## Store
 
